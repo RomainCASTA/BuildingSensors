@@ -1,97 +1,97 @@
 [
      {
-          "id": 1}, 
+          "id": 1,
           "temperature": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 21
-          }}, 
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 24
+          },
           "air_quality": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 13.1
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 12.4
           }
-     }}, 
+     },
      {
-          "id": 2}, 
+          "id": 2,
           "temperature": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
                "value": 21
-          }}, 
+          },
           "air_quality": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 12.7
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 12.8
           }
-     }}, 
+     },
      {
-          "id": 3}, 
+          "id": 3,
           "temperature": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 21
-          }}, 
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 23
+          },
           "air_quality": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
                "value": 13.0
           }
-     }}, 
+     },
      {
-          "id": 4}, 
+          "id": 4,
           "temperature": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 23
-          }}, 
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 24
+          },
           "air_quality": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 14.3
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 13.0
           }
-     }}, 
+     },
      {
-          "id": 5}, 
+          "id": 5,
           "temperature": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 21
-          }}, 
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 23
+          },
           "air_quality": {
                "time": {
-                    "hour": 21}, 
-                    "minute": 54}, 
-                    "second": 46
-               }}, 
-               "value": 13.7
+                    "hour": 2,
+                    "minute": 5,
+                    "second": 53
+               },
+               "value": 14.4
           }
      }
 ]
